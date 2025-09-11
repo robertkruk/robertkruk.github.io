@@ -1,5 +1,5 @@
 ---
-title: AWS PostgreSQL Demo with Terraform
+title: AWS PostgreSQL Demo - Database Audit Trail Solution
 date: 2025-09-11 11:00:00 +1000
 tags: [project, aws, postgresql, aurora, serverless, pgaudit, cdk, security, compliance]
 pin: false
