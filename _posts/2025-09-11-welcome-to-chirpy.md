@@ -1,8 +1,7 @@
 ---
 title: Welcome to My New Chirpy Site
-date: 2024-01-15 10:00:00 -0500
-categories: [Blog, Demo]
-tags: [chirpy, jekyll, github-pages]
+date: 2025-09-11 10:00:00 -0500
+tags: [blog, chirpy, jekyll, github-pages]
 pin: true
 ---
 
