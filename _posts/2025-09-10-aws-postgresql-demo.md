@@ -1,6 +1,6 @@
 ---
 title: AWS PostgreSQL Demo with Terraform
-date: 2025-09-11 16:00:00 -0500
+date: 2025-09-11 11:00:00 +1000
 tags: [project, aws, postgresql, aurora, serverless, pgaudit, cdk, security, compliance]
 pin: false
 ---

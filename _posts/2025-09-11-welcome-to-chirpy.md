@@ -1,6 +1,6 @@
 ---
 title: Welcome to My New Chirpy Site
-date: 2025-09-11 10:00:00 -0500
+date: 2025-09-11 12:00:00 +1000
 tags: [blog, chirpy, jekyll, github-pages]
 pin: true
 ---
